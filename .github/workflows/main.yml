@@ -3,7 +3,7 @@ name: generate animation
 on:
   # run automatically every 24 hours
   schedule:
-    - cron: "*/5 * * * *" #Выполнять каждый час
+    - cron: "* * * * *" #Выполнять каждый час
   
   # allows to manually run the job at any time
   pull_request:
