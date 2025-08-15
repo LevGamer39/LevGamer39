@@ -9,8 +9,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=LevGamer39&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LevGamer39&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LevGamer39&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LevGamer39)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LevGamer39&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LevGamer39/LevGamer39/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LevGamer39/LevGamer39/output/github-contribution-grid-snake.svg">
